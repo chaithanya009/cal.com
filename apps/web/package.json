@@ -81,7 +81,7 @@
     "bcryptjs": "^2.4.3",
     "classnames": "^2.3.1",
     "dompurify": "^3.1.7",
-    "dotenv-cli": "^6.0.0",
+    "dotenv-cli": "^7.4.4",
     "entities": "^4.4.0",
     "eslint-config-next": "^13.2.1",
     "googleapis": "^84.0.0",
