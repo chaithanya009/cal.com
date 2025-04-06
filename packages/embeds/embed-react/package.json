@@ -55,6 +55,6 @@
   },
   "dependencies": {
     "@calcom/embed-core": "workspace:*",
-    "@calcom/embed-snippet": "workspace:*"
+    "@calcom/embed-snippet": "1.0.0"
   }
 }
