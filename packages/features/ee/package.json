@@ -10,8 +10,8 @@
     "@calcom/ui": "*",
     "@hookform/error-message": "^2.0.0",
     "@hookform/resolvers": "^2.9.7",
-    "@sendgrid/client": "^7.7.0",
-    "@sendgrid/mail": "^7.6.2",
+    "@sendgrid/client": "^8.1.5",
+    "@sendgrid/mail": "^8.1.5",
     "libphonenumber-js": "^1.10.51",
     "twilio": "^3.80.1",
     "zod": "^3.22.4"
