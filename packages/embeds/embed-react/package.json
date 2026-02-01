@@ -54,7 +54,7 @@
     "vite": "^4.5.2"
   },
   "dependencies": {
-    "@calcom/embed-core": "workspace:*",
-    "@calcom/embed-snippet": "workspace:*"
+    "@calcom/embed-core": "1.0.0",
+    "@calcom/embed-snippet": "1.0.0"
   }
 }
